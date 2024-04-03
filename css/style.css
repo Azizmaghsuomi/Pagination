@@ -85,3 +85,15 @@ main .list .item:hover {
 	background-color: #e8ae00;
 	box-shadow: inset 0px 0px 4px rgba(0, 0, 0, 0.2);
 }
+
+.p-foote {
+	position: absolute;
+	top: 96%;
+	left: 50%;
+	color:  #ffffff ;
+
+}
+
+.span-footer {
+	color: #ffffff;
+}
